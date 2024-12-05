@@ -13,7 +13,7 @@ const LoginSIgnup = () => {
       {/* Hero Section */}
       <section className={styles.heroSection}>
         <div className={styles.heroText}>
-          <h1>Hello, I'm Kamesh</h1>
+          <h1>Hello, I'm Arjun</h1>
           <p>A passionate Full-Stack Developer with 2 years of experience in creating visually appealing and responsive web applications.</p>
           <a href="#projects" className={styles.ctaButton}>See My Work</a>
         </div>
